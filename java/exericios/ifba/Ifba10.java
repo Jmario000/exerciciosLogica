@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package exericios.ifbh;
+package exericios.ifba;
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -14,7 +14,7 @@ import javax.swing.JOptionPane;
  *
  * @author jmario
  */
-public class Ifbh10 {
+public class Ifba10 {
 
     public static void main(String[] args) {
         int number = Integer.parseInt(JOptionPane.showInputDialog("Entre com um número positivo menor que 32:"));

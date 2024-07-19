@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package exericios.ifbh;
+package exericios.ifba;
 
 import javax.swing.JOptionPane;
 
@@ -12,7 +12,7 @@ import javax.swing.JOptionPane;
  *
  * @author jmario
  */
-public class Ifbh06 {
+public class Ifba06 {
 
     public static void main(String[] args) {
         int num1 = Integer.parseInt(JOptionPane.showInputDialog("Enter the 1th number:"));

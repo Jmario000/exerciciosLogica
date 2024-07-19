@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package exericios.ifbh;
+package exericios.ifba;
 
 import javax.swing.JOptionPane;
 
@@ -10,7 +10,7 @@ import javax.swing.JOptionPane;
  *
  * @author jmario
  */
-public class Ifbh02 {
+public class Ifba02 {
 
     public static void main(String[] args) {
         float side = Float.parseFloat(JOptionPane.showInputDialog("Enter the value of the side of the square:"));

@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package exericios.ifbh;
+package exericios.ifba;
 
 import javax.swing.JOptionPane;
 
@@ -10,7 +10,7 @@ import javax.swing.JOptionPane;
  *Dado o tamanho do raio de uma circunferência, calcular a área e o perímetro da mesma.
  * @author jmario
  */
-public class Ifbh03 {
+public class Ifba03 {
 
     public static void main(String[] args) {
         double raio = Double.parseDouble(JOptionPane.showInputDialog("Qual é o raio da circunferencia?"));
