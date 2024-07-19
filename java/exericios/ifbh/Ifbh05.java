@@ -10,7 +10,7 @@ import javax.swing.JOptionPane;
  *Ler um número inteiro e exibir o seu sucessor.
  * @author jmario
  */
-public class Ifbh5 {
+public class Ifbh05 {
 
     public static void main(String[] args) {
         int num = Integer.parseInt(JOptionPane.showInputDialog("Enter an Integer number: "));

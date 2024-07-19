@@ -12,7 +12,7 @@ import javax.swing.JOptionPane;
  *
  * @author jmario
  */
-public class Ifbh8 {
+public class Ifbh08 {
 
     public static void main(String[] args) {
         float temperaturaFah = Float.parseFloat(JOptionPane.showInputDialog("Qual a temperatura?"));

@@ -12,7 +12,7 @@ import javax.swing.JOptionPane;
  *
  * @author jmario
  */
-public class Ifbh1 {
+public class Ifbh01 {
 
     public static void main(String[] args) {
         float base = Float.parseFloat(JOptionPane.showInputDialog("Enter the base of the rectangle:"));

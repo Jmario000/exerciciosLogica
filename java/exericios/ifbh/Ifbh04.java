@@ -10,7 +10,7 @@ import javax.swing.JOptionPane;
  *Dado os três lados de um triângulo determinar o perímetro do mesmo.
  * @author jmario
  */
-public class Ifbh4 {
+public class Ifbh04 {
 
     public static void main(String[] args) {
         double lados[] = new double[3], perimeter = 0;

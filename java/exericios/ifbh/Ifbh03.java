@@ -10,7 +10,7 @@ import javax.swing.JOptionPane;
  *Dado o tamanho do raio de uma circunferência, calcular a área e o perímetro da mesma.
  * @author jmario
  */
-public class Ifbh3 {
+public class Ifbh03 {
 
     public static void main(String[] args) {
         double raio = Double.parseDouble(JOptionPane.showInputDialog("Qual é o raio da circunferencia?"));

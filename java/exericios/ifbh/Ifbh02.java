@@ -10,7 +10,7 @@ import javax.swing.JOptionPane;
  *
  * @author jmario
  */
-public class Ifbh2 {
+public class Ifbh02 {
 
     public static void main(String[] args) {
         float side = Float.parseFloat(JOptionPane.showInputDialog("Enter the value of the side of the square:"));

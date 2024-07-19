@@ -12,7 +12,7 @@ import javax.swing.JOptionPane;
  *
  * @author jmario
  */
-public class Ifbh6 {
+public class Ifbh06 {
 
     public static void main(String[] args) {
         int num1 = Integer.parseInt(JOptionPane.showInputDialog("Enter the 1th number:"));

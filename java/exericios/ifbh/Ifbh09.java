@@ -12,7 +12,7 @@ import javax.swing.JOptionPane;
  *
  * @author jmario
  */
-public class Ifbh9 {
+public class Ifbh09 {
 
     public static void main(String[] args) {
         double raio = Double.parseDouble(JOptionPane.showInputDialog("Qual o raio da lata?"));
